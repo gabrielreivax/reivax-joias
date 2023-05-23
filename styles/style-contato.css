@@ -200,7 +200,7 @@ footer a {
     }
     
     .txtpesquisa {
-        width: 50%;
+        display: none;
     }
 
     .logo {
@@ -216,6 +216,14 @@ footer a {
     main {
         display: flex;
     }
+
+   .input-padrao {
+    width: auto;
+   }
+
+   .input-mensagem{
+    width: auto;
+   }
 
     .div-rodape-container {
         text-align: center;
